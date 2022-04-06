@@ -1,0 +1,40 @@
+{
+  "name": "Slime Sweep",
+  "short_name": "Slime Sweep",
+  "icons": [{
+    "src": "./resized-image-Promo (2).jpeg",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "./resized-image-Promo (1).jpeg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": ".//resized-image-Promo (3).jpeg",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "./resized-image-Promo (4).jpeg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "./resized-image-Promo (5).jpeg",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src":  ".//resized-image-Promo (6).jpeg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }],
+  "lang": "en-US",
+  "start_url": "https://erger565.github.io",
+  "background_color": "white",
+  "theme_color": "white",
+  "display": "standalone"
+}
